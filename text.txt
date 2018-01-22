@@ -7,6 +7,10 @@
 אדעסודרע () {
 }
 
+zalupa_func () {
+
+}
+
 gunctoin () {
 
 }
